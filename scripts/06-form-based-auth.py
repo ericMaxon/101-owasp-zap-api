@@ -3,7 +3,7 @@ import urllib.parse
 from zapv2 import ZAPv2
 
 context_id = 1
-apikey = 'zap-apikey-1337'
+apikey = 'zap-api-1337'
 context_name = 'Default Context'
 target_url = 'http://l192.168.56.1:8090/bodgeit'
 
